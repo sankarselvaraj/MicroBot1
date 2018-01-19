@@ -1,0 +1,15 @@
+{
+  "name": "nodebot",
+  "version": "1.0.0",
+  "description": "TestBotForTeam",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Sankar Selvaraj",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.13.1",
+    "restify": "^6.3.4"
+  }
+}
